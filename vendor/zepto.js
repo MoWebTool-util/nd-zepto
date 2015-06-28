@@ -1,4 +1,3 @@
-//define(function (require, exports, module) {
 //     Zepto.js
 //     (c) 2010-2014 Thomas Fuchs
 //     Zepto.js may be freely distributed under the MIT license.
@@ -2040,7 +2039,7 @@ else if (typeof define === 'function' && define.amd) {
   });
 }
 
-//});
+
 
 
 
